@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haejeong079
 - 👀 I’m interested in <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,Java,SpringBoot" />
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,Java,Spring" />
   </a>
 </p>
 - 🌱 I’m currently learning ... aws, SpringBoot, Java
