@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haejeong079
-- 👀 I’m interested in  :cloud: SpringBoot
+- 👀 I’m interested in  :cloud:, SpringBoot
 - 🌱 I’m currently learning ... aws, SpringBoot, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
