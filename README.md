@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haejeong079
-- 👀 I’m interested in  :cloud:, SpringBoot
+- 👀 I’m interested in [![My Skills](https://skillicons.dev/icons?i=aws,docker,springboot,java&perline=3)](https://skillicons.dev)
 - 🌱 I’m currently learning ... aws, SpringBoot, Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
