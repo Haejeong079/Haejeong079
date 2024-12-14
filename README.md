@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @Haejeong079
-- 👀 I’m interested in <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,docker,Java,spring" />
-  </a>
-</p>
-- 🌱 I’m currently learning ... aws, SpringBoot, Java
+- 👀 I’m interested in Java, Springboot, AWS, Docker
+- 🌱 I’m currently learning ... aws, SpringBoot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... goesed7582@naver.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
