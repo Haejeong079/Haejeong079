@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Haejeong079
-- 👀 I’m interested in Java, Springboot, AWS, Docker
-- 🌱 I’m currently learning ... aws, SpringBoot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... goesed7582@naver.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hey there! I’m @Haejeong079
+- 🚀 Passionate about: Java, Spring Boot, AWS, Docker  
+- 🌱 Currently mastering: AWS, Spring Boot, MSA  
+- 🤝 Open to collaborate on: Cloud-based projects using AWS  
+- 📫 Reach me at: goesed7582@naver.com  
+- ⚡ Fun fact: Diving deep into distributed computing!  
+- 🏋️‍♂️🎳 Hobbies: Crushing weights at the gym & striking pins in bowling!  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haejeong079)](https://github.com/anuraghazra/github-readme-stats)
