@@ -1,10 +1,11 @@
-- 👋 Hey there! I’m @Haejeong079
-- 🚀 Passionate about: Java, Spring Boot, AWS, Docker  
-- 🌱 Currently mastering: AWS, Spring Boot, MSA  
-- 🤝 Open to collaborate on: Cloud-based projects using AWS  
-- 📫 Reach me at: goesed7582@naver.com  
-- ⚡ Fun fact: Diving deep into distributed computing!  
-- 🏋️‍♂️🎳 Hobbies: Crushing weights at the gym & striking pins in bowling!  
+👋 Hi there! I’m @Haejeong079.
+🌱 Learning to code! Currently exploring Java and Spring Boot.
+🚀 Curious about: Trying to understand AWS and Docker!
+🤝 Looking for study buddies! I’m still learning backend and cloud stuff, so let’s learn together!
+📫 Feel free to reach out! goesed7582@naver.com
+⚡ Fun fact: Just started reading about distributed computing… still pretty confused! 😂
+🏋️‍♂️🎳 Hobbies: I enjoy working out and bowling!
+  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haejeong079)](https://github.com/anuraghazra/github-readme-stats)
