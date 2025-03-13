@@ -1,10 +1,10 @@
-👋 Hi there! I’m @Haejeong079.
-🌱 Learning to code! Currently exploring Java and Spring Boot.
-🚀 Curious about: Trying to understand AWS and Docker!
-🤝 Looking for study buddies! I’m still learning backend and cloud stuff, so let’s learn together!
-📫 Feel free to reach out! goesed7582@naver.com
-⚡ Fun fact: Just started reading about distributed computing… still pretty confused! 😂
-🏋️‍♂️🎳 Hobbies: I enjoy working out and bowling!
+- 👋 Hi there! I’m @Haejeong079.
+- 🌱 Learning to code! Currently exploring Java and Spring Boot.
+- 🚀 Curious about: Trying to understand AWS and Docker!
+- 🤝 Looking for study buddies! I’m still learning backend and cloud stuff, so let’s learn together!
+- 📫 Feel free to reach out! goesed7582@naver.com
+- ⚡ Fun fact: Just started reading about distributed computing… still pretty confused! 😂
+- 🏋️‍♂️🎳 Hobbies: I enjoy working out and bowling!
   
 
 
